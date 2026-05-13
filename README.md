@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+I'm+Ritesh+Purohit;Full+Stack+Developer+in+Progress;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Building+cool+stuff%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║           < Turning caffeine into code since 2023 />         ║
-╚══════════════════════════════════════════════════════════════╝
+                        ╔══════════════════════════════════════════════════════════════╗
+                        ║           < Turning caffeine into code since 2023 />         ║
+                        ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -44,17 +44,6 @@ class Developer:
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ritesh-453&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00FF41&title_color=00FF41&text_color=ffffff&icon_color=00FF41&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-453&theme=chartreuse-dark&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
 
 </div>
 
@@ -101,10 +90,10 @@ const projects = [
 <div align="center">
 
 ```
-                                                  ╔═══════════════════════════════════════════════╗
-                                                  ║           "First, solve the problem.          ║
-                                                  ║              Then, write the code."           ║
-                                                  ╚═══════════════════════════════════════════════╝
+                                    ╔═══════════════════════════════════════════════╗
+                                    ║           "First, solve the problem.          ║
+                                    ║              Then, write the code."           ║
+                                    ╚═══════════════════════════════════════════════╝
 ```
 
 </div>
