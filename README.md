@@ -4,7 +4,7 @@
 
 ```
                               ╔══════════════════════════════════════════════════════════════╗
-                              ║           < Turning caffeine into code since 2023 />         ║
+                              ║           < Turning caffeine into code since 2024 />         ║
                               ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 class Developer:
@@ -22,7 +22,7 @@ class Developer:
         self.role         = "Full Stack Developer & Data Analyst"
         self.stack        = ["Python", "Java", "JavaScript", "SQL"]
         self.currently    = "Building projects & breaking things"
-        self.learning     = ["React", "Node.js", "REST APIs", "DSA"]
+        self.learning     = ["Power BI", "REST APIs", "DSA"]
 ```
 
 ---
