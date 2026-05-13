@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+I'm+Ritesh+Purohit;Full+Stack+Developer+in+Progress;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Building+cool+stuff%2C+one+commit+at+a+time)](https://git.io/typing-svg)
 
 ```
-                        ╔══════════════════════════════════════════════════════════════╗
-                        ║           < Turning caffeine into code since 2023 />         ║
-                        ╚══════════════════════════════════════════════════════════════╝
+                              ╔══════════════════════════════════════════════════════════════╗
+                              ║           < Turning caffeine into code since 2023 />         ║
+                              ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -19,7 +19,7 @@ class Developer:
     def __init__(self):
         self.name         = "Ritesh Purohit"
         self.username     = "Ritesh-453"
-        self.role         = "Full Stack Developer (2nd Year IT Student)"
+        self.role         = "Full Stack Developer & Data Analyst"
         self.stack        = ["Python", "Java", "JavaScript", "SQL"]
         self.currently    = "Building projects & breaking things"
         self.learning     = ["React", "Node.js", "REST APIs", "DSA"]
