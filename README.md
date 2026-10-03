@@ -1,99 +1,47 @@
-<div align="center">
+# Hi, I'm Ritesh Purohit 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+I'm+Ritesh+Purohit;Python+%7C+Java+%7C+JavaScript+%7C+SQL;Full+Stack+Developer+%26+Data+Analyst;Solving+real+world+problems)](https://git.io/typing-svg)
+**Full Stack Developer & Data Analyst** · B.E. Information Technology student (2024–2028) · India
 
-```
-                              ╔══════════════════════════════════════════════════════════════╗
-                              ║           < Turning caffeine into code since 2024 />         ║
-                              ╚══════════════════════════════════════════════════════════════╝
-```
+I build full-stack web apps and data dashboards that go live, not just live in notebooks. I'm looking for **remote internships and junior roles** in full stack development and data analytics.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-ritesh--portfolio--70.netlify.app-2563eb?style=flat-square)](https://ritesh-portfolio-70.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-purohit--ritesh-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purohit-ritesh/)
+[![Email](https://img.shields.io/badge/Email-purohitritesh36@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:purohitritesh36@gmail.com)
 
 ---
 
-## `who am i`
+## Featured Projects
 
-```python
-class Developer:
-    def __init__(self):
-        self.name         = "Ritesh Purohit"
-        self.username     = "Ritesh-453"
-        self.role         = "Full Stack Developer & Data Analyst"
-        self.stack        = ["Python", "Java", "JavaScript", "SQL"]
-        self.currently    = "Building projects & breaking things"
-        self.learning     = ["Power BI", "REST APIs", "DSA"]
-```
+| Project | What it does | Tech | Links |
+|---|---|---|---|
+| **Sahay** | Roadside-help platform that connects drivers of broken-down vehicles with nearby mechanics. Includes a map, live mechanic tracking and an offline chatbot. | Spring Boot, HTML, CSS, JavaScript, SQL | [Live](https://sahay-9cw5.onrender.com/) · [Code](https://github.com/Ritesh-453/Sahay) |
+| **RepoMedic** | AI debugging assistant that fixes bugs and generates summaries, data schemas and architecture overviews for a repo. | React, Node.js | [Live](https://repomedic-ai.vercel.app/) |
+| **IPL Analytics 2008–2024** | 16 years of IPL data: player trends, team performance, win-probability models and interactive charts. | Python, Pandas, Streamlit, ML | [Live](https://ipl-analytics-2008-2024.streamlit.app/) |
+| **Fintech Credit Risk Dashboard** | Real-world credit dataset analysed to deliver clear, outcome-driven insights. | Python, SQL, Power BI, Streamlit | [Live](https://fintech-credit-risk-dashboard.streamlit.app/) |
+| **SCM Steel Furniture** | Fully functional business website built to help a local shop grow. | HTML, CSS, JavaScript | [Live](https://scm-steel-furniture.netlify.app/) |
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Languages:** Python · Java · JavaScript · SQL · HTML · CSS
 
-### Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+**Full Stack:** React · Node.js · Express · Spring Boot · REST APIs
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41)
+**Data:** Pandas · Streamlit · Power BI · MySQL
 
-</div>
+**Tools:** Git · GitHub · VS Code · Vercel · Render · Netlify
 
 ---
 
-## Projects
+## Currently
 
-```javascript
-const projects = [
-  {
-    name: "Veriax",
-    tech: ["Python"],
-    status: "Public",
-    link: "github.com/Ritesh-453/Veriax",
-    desc: "A platform that detects sports clips being reposted without permission on platforms
-           like YouTube and Instagram. Identifies unauthorized usage and enables creators to
-           send legal notices to infringing accounts."
-  },
-  {
-    name: "Sahay",
-    tech: ["HTML", "CSS", "JavaScript"],
-    status: "Public",
-    link: "github.com/Ritesh-453/Sahay",
-    desc: "A road assistance platform for vehicle breakdowns. Users submit a help request
-           and the nearest available mechanic is assigned automatically, with live location
-           tracking of the mechanic in real time."
-  }
-];
-```
+- 🎯 Seeking remote internships and junior roles (full stack / data analyst)
+- 📚 Strengthening data structures and algorithms
+- 🛠️ Building and shipping projects people can actually use
 
 ---
 
-## Let's Connect
+## Get in Touch
 
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:purohitritesh36@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Ritesh-453)
-
-</div>
-
----
-
-<div align="center">
-
-```
-                                    ╔═══════════════════════════════════════════════╗
-                                    ║           "First, solve the problem.          ║
-                                    ║              Then, write the code."           ║
-                                    ╚═══════════════════════════════════════════════╝
-```
-
-</div>
+Email: [purohitritesh36@gmail.com](mailto:purohitritesh36@gmail.com) · LinkedIn: [purohit-ritesh](https://www.linkedin.com/in/purohit-ritesh/) · Portfolio: [ritesh-portfolio-70.netlify.app](https://ritesh-portfolio-70.netlify.app/)
